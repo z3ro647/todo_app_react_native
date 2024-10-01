@@ -1,3 +1,4 @@
+
 # ToDo React Native App
 
 This is a simple **ToDo** application built using **React Native**. It allows users to add, manage, and delete tasks. Users can mark tasks as completed, and the app provides an intuitive user interface for interacting with tasks.
@@ -9,3 +10,14 @@ This is a simple **ToDo** application built using **React Native**. It allows us
  - **Visual Feedback**: Completed tasks are visually distinguished with a strikethrough and gray text.
 
 ### Screenshots
+- Default
+![](https://raw.githubusercontent.com/z3ro647/todo_app_react_native/refs/heads/master/screenshots/1.png)
+
+- Adding Task
+![](https://raw.githubusercontent.com/z3ro647/todo_app_react_native/refs/heads/master/screenshots/2.png)
+
+- Displaying Task
+![](https://raw.githubusercontent.com/z3ro647/todo_app_react_native/refs/heads/master/screenshots/3.png)
+
+- Marking Task done
+![](https://raw.githubusercontent.com/z3ro647/todo_app_react_native/refs/heads/master/screenshots/4.png)
